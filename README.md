@@ -4,11 +4,7 @@
 <br>
 
 ### ✅ 진행기간
-23.03.15 ~ 23.04.16(총 33일)
-
-<br>
-
-### ✅ 개발 환경
+23.03.15 ~ 23.04.16 (총 33일)
 
 <br>
 
@@ -42,7 +38,7 @@
 <tr>
  <td align="center">빌드도구</td>
  <td>
-  <img src="https://img.shields.io/badge/apachemaven-C71A36?style=for-the-badge&logo=Storybook&logoColor=white"/>&nbsp 
+  <img src="https://img.shields.io/badge/apachemaven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white"/>&nbsp 
  </td>
 </tr>
 <tr>
@@ -54,6 +50,12 @@
  </td>
 </tr>
 <tr>
+ <td align="center">IDE</td>
+ <td>
+  <img src="https://img.shields.io/badge/eclipseide-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white"/>&nbsp 
+ </td>
+</tr>
+<tr>
  <td align="center">협업툴</td>
  <td>
     <img src="https://img.shields.io/badge/GitHub-181710?style=for-the-badge&logo=GitHub&logoColor=white"/>&nbsp 
@@ -61,12 +63,8 @@
     <img src="https://img.shields.io/badge/Google Cloud-4285F4?style=for-the-badge&logo=Google Cloud&logoColor=white"/>
  </td>
 </tr>
-<tr>
- <td align="center">목 서버</td>
- <td>
-  <img src="https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/> &nbsp 
-</tr>
 </table>
+
 <br> 
 
 ### ✅ 주요 기능

@@ -1,7 +1,6 @@
 # MEOMUM 프로젝트
 > 머뭄은 사용자가 원하는 방향에 따라 <strong>공간을 컨설턴트</strong> 해주며,<br>가구를 <strong>사지 않고 렌탈</strong>하여 부담없이 나만의 공간을 채워나가는 고객 맞춤형 서비스를 제공합니다.
 
-![screencapture-192-168-1-135-9090-meomum-index-do-2023-04-18-10_30_09](https://user-images.githubusercontent.com/121777501/232715248-5e492968-5ede-42d1-b52c-1836e25621d8.png)
 
 ### ✅ 진행기간
 23.03.15 ~ 23.04.16
@@ -84,3 +83,12 @@
 ![meomum_erd](https://github.com/ha02e/MEOMUM_final/assets/121777501/2b4c7444-321a-4b74-8197-3031436f3248)
 - 총 18개의 테이블 생성
 <br>
+
+### 화면 구성
+|메인|후기|
+|:---:|:---:|
+|<img src="https://user-images.githubusercontent.com/121777501/232715248-5e492968-5ede-42d1-b52c-1836e25621d8.png" width="400px" />|<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/121777501/244401523-f24a3abf-0233-49b1-b029-8f213bed68a6.png" width="400px" />|
+|정리일상|구독일상|
+|<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/121777501/244398990-d958ba1b-3c48-4aa6-8096-fe3a37cf9d4f.png" width="400px" />|<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/121777501/244399275-237819da-b3d0-41b1-8835-65ce9856035e.png" width="400px" />| 
+|로그인|관리자페이지|
+|<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/121777501/244402554-062ea8de-8d45-420a-a4e6-740b5b072556.png" width="400px" />|<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/121777501/244401160-cf046e08-328b-4e24-aaf8-c554835ff2bb.png" width="400px" />

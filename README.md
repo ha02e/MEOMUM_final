@@ -100,7 +100,7 @@
 - 총 18개의 테이블 생성
 <br>
 
-### 화면 구성
+### ✅ 화면 구성
 |메인|후기|
 |:---:|:---:|
 |<img src="https://user-images.githubusercontent.com/121777501/232715248-5e492968-5ede-42d1-b52c-1836e25621d8.png" width="400px" />|<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/121777501/244401523-f24a3abf-0233-49b1-b029-8f213bed68a6.png" width="400px" />|

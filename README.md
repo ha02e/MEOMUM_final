@@ -13,13 +13,59 @@
 
 
 
-- 사용 언어
-
-  <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
-  <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> 
-  <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"> 
-  <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=white">
-  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
+- 사용 기술
+<table>
+<tr>
+ <td align="center">언어</td>
+ <td>
+  <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">&nbsp
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>&nbsp
+ </td>
+</tr>
+<tr>
+ <td align="center">프레임워크</td>
+ <td>
+   <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> &nbsp
+</tr>
+<tr>
+ <td align="center">웹 서버</td>
+ <td>
+  <img src="https://img.shields.io/badge/Apache Tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black"/> &nbsp 
+</tr>
+<tr>
+ <td align="center">데이터베이스</td>
+ <td>
+  <img src="https://img.shields.io/badge/ORACLE-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>&nbsp
+ </td>
+</tr>
+<tr>
+</tr>
+<tr>
+ <td align="center">빌드도구</td>
+ <td>
+  <img src="https://img.shields.io/badge/apachemaven-C71A36?style=for-the-badge&logo=Storybook&logoColor=white"/>&nbsp 
+ </td>
+</tr>
+<tr>
+ <td align="center">프론트엔드</td>
+ <td>
+    <img src="https://img.shields.io/badge/Bootstrapap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>&nbsp 
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>&nbsp 
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+ </td>
+</tr>
+<tr>
+ <td align="center">협업툴</td>
+ <td>
+    <img src="https://img.shields.io/badge/GitHub-181710?style=for-the-badge&logo=GitHub&logoColor=white"/>&nbsp 
+    <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"/>&nbsp 
+    <img src="https://img.shields.io/badge/Google Cloud-4285F4?style=for-the-badge&logo=Google Cloud&logoColor=white"/>
+ </td>
+</tr>
+<tr>
+ <td align="center">목 서버</td>
+ <td>
+  <img src="https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/> &nbsp 
+</tr>
+</table>
    

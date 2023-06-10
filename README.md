@@ -1,3 +1,7 @@
+<div align="center">
+<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/121777501/244878549-3610cd62-3085-406e-9041-d771465a03c9.png" width="200" >
+</div>
+ 
 # MEOMUM 프로젝트
 > 머뭄은 사용자가 원하는 방향에 따라 <strong>공간을 컨설턴트</strong> 해주며,<br>가구를 <strong>사지 않고 렌탈</strong>하여 부담없이 나만의 공간을 채워나가는 고객 맞춤형 서비스를 제공합니다.
 

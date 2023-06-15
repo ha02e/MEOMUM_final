@@ -64,7 +64,7 @@
  <td>
     <img src="https://img.shields.io/badge/GitHub-181710?style=for-the-badge&logo=GitHub&logoColor=white"/>&nbsp 
     <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"/>&nbsp 
-    <img src="https://img.shields.io/badge/Google Cloud-4285F4?style=for-the-badge&logo=Google Cloud&logoColor=white"/>
+    <img src="https://img.shields.io/badge/googledrive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white"/>
  </td>
 </tr>
 </table>

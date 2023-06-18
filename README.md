@@ -9,16 +9,22 @@ https://velog.io/@ha02e/meomumproject
 <br>
 
 ## 목차
-- [진행기간](#진행기간)
-- [사용 기술](#사용-기술)
+1. [진행기간](#진행기간)
+2. [사용 기술](#사용-기술)
+3. [주요 기능](#주요-기능)
+4. [담당 기능](#담당-기능)
+5. [유스케이스](#유스케이스)
+6. [ERD 설계](#erd-설계)
+7. [화면 구성](#화면-구성)
 
+<br>
 
-## ✅ 진행기간
+## 진행기간
 23.03.15 ~ 23.04.16 (총 33일)
 
 <br>
 
-## ✅ 사용 기술
+## 사용 기술
 <table>
 <tr>
  <td align="center">언어</td>
@@ -77,7 +83,7 @@ https://velog.io/@ha02e/meomumproject
 
 <br> 
 
-## ✅ 주요 기능
+## 주요 기능
 - **회원가입/로그인**
   - 회원가입 시 이메일 인증 기능
   - 회원가입 시 우편번호 검색 기능(다음 주소 API 활용)
@@ -93,7 +99,7 @@ https://velog.io/@ha02e/meomumproject
   - 후기 글에 사진 첨부 기능(CK 에디터 활용)
 <br>
 
-## ✅ 담당 기능
+## 담당 기능
 |김지섭|남효정|이초은|**이하영**|장수빈|
 |:---|:---|:---|:---|:---|
 |- 주문/결제 <br>- 공지사항|- 상품관리 <br>- 상품 리스트 <br>- 상품 상세페이지 <br>- 장바구니|- 메인페이지 <br>- 회원가입/로그인 <br>- 간단 견적 문의|**- 후기 게시판 <br>- 재고 관리 <br>- 주문/배송관리 <br>- 구독 반납**|- 방문 견적 문의 <br>- 정리일상 결제 <br>- 통계
@@ -108,17 +114,17 @@ https://velog.io/@ha02e/meomumproject
 
 <br>
 
-## ✅ 유스케이스
+## 유스케이스
 ![유스케이스](https://github.com/ha02e/MEOMUM_final/assets/121777501/6268140e-6f70-4068-9a25-de523dc2c678)
 
 <br>
 
-## ✅ ERD다이어그램
+## ERD 설계
 ![meomum_erd](https://github.com/ha02e/MEOMUM_final/assets/121777501/2b4c7444-321a-4b74-8197-3031436f3248)
 - 총 18개의 테이블 생성
 <br>
 
-## ✅ 화면 구성
+## 화면 구성
 |메인|후기|
 |:---:|:---:|
 |<img src="https://user-images.githubusercontent.com/121777501/232715248-5e492968-5ede-42d1-b52c-1836e25621d8.png" width="400px" />|<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/121777501/244401523-f24a3abf-0233-49b1-b029-8f213bed68a6.png" width="400px" />|

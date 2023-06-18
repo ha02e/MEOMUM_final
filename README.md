@@ -13,12 +13,12 @@ https://velog.io/@ha02e/meomumproject
 - [사용 기술](#사용-기술)
 
 
-## 진행기간
+## ✅ 진행기간
 23.03.15 ~ 23.04.16 (총 33일)
 
 <br>
 
-## 사용 기술
+## ✅ 사용 기술
 <table>
 <tr>
  <td align="center">언어</td>
@@ -77,7 +77,7 @@ https://velog.io/@ha02e/meomumproject
 
 <br> 
 
-## 주요 기능
+## ✅ 주요 기능
 - **회원가입/로그인**
   - 회원가입 시 이메일 인증 기능
   - 회원가입 시 우편번호 검색 기능(다음 주소 API 활용)

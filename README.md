@@ -13,9 +13,10 @@ https://velog.io/@ha02e/meomumproject
 2. [사용 기술](#사용-기술)
 3. [주요 기능](#주요-기능)
 4. [담당 기능](#담당-기능)
-5. [유스케이스](#유스케이스)
-6. [ERD 설계](#erd-설계)
-7. [화면 구성](#화면-구성)
+5. [사이트맵](#사이트맵)
+6. [유스케이스](#유스케이스)
+7. [ERD 설계](#erd-설계)
+8. [화면 구성](#화면-구성)
 
 <br>
 
@@ -114,8 +115,18 @@ https://velog.io/@ha02e/meomumproject
 
 <br>
 
+## 사이트맵
+![머뭄_사용자_사이트맵](https://github.com/ha02e/MEOMUM_final/assets/121777501/a59d707f-e6a0-456e-bd5c-ceb7b61e6ba0)
+![머뭄_관리자_사이트맵](https://github.com/ha02e/MEOMUM_final/assets/121777501/8f3aaeae-3f8e-4246-a0a1-123a44874f73)
+
+
+
+
+<br>
+
 ## 유스케이스
 ![유스케이스](https://github.com/ha02e/MEOMUM_final/assets/121777501/6268140e-6f70-4068-9a25-de523dc2c678)
+
 
 <br>
 

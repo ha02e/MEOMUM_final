@@ -3,7 +3,7 @@
 </div>
  
 # MEOMUM 프로젝트
-> 머뭄은 사용자가 원하는 방향에 따라 <strong>공간을 컨설턴트</strong> 해주며,<br>가구를 <strong>사지 않고 렌탈</strong>하여 부담없이 나만의 공간을 채워나가는 고객 맞춤형 서비스를 제공합니다.
+> 머뭄은 사용자가 원하는 방향에 따라 <strong>공간을 컨설턴트</strong> 해주며,<br>가구를 <strong>사지 않고 구독</strong>하여 부담없이 나만의 공간을 채워나가는 고객 맞춤형 서비스를 제공합니다.
 https://velog.io/@ha02e/meomumproject
 
 <br>
